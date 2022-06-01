@@ -365,7 +365,7 @@ class _CamPageState extends State<CamPage> {
 
                   FloatingActionButton(
                       onPressed: () {  },
-                      child: Icon(downbuttoncolor == null ? Icons.play_arrow : Icons.pause)) ],
+                      child: Icon(leftbuttoncolor == null ? Icons.play_arrow : Icons.pause)) ],
               )
             ],
           ),
